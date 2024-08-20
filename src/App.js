@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import MovieSearch from './Components/MovieSearch';
 import SignupPage from './Components/SignupPage';
 import SigninPage from './Components/SigninPage';
+import React from 'react';
 
 function App() {
 
